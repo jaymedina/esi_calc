@@ -9,7 +9,7 @@ def esi_calc(xe, x, w=0.57):
     xe : int
         Reference value (planet earth)
     w  : int
-        Weighted value
+        Weighted value 
 
     Return
     ------
